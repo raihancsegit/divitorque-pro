@@ -1,0 +1,1 @@
+jQuery((function(t){t(".dtp-content-toggle-input").each((function(){var n=t(this).parents(".dtp-content-toggle").find(".dtp-content-toggle-back"),e=t(this).parents(".dtp-content-toggle").find(".dtp-content-toggle-front");this.checked?(e.hide(),n.show()):(n.hide(),e.show()),t(this).on("change",(function(){this.checked?(e.hide(),n.show()):(n.hide(),e.show())}))}))}));

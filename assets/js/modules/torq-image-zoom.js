@@ -1,0 +1,1 @@
+jQuery((function(i){var n=i(".dtp-image-magnifier-front");n&&n.length>0&&i(".dtp-image-magnifier-front img").magnify()}));

@@ -1,0 +1,1 @@
+jQuery((function(s){var t=s(".dtp-carousel");if(t){var i={edgeFriction:.35,useTransform:!0,touchThreshold:600};t.each((function(){var t=s(this).data("settings"),a=Object.assign(i,t);s(this).slick(a)}))}}));

@@ -1,0 +1,1 @@
+.torq-stats-grid{display:grid;gap:40px;grid-template-columns:repeat(3,1fr)}.torq-stats-grid .torq_stats_grid_child{max-width:100%}.torq-stats-grid .stats-item{height:100%}.torq-stats-grid .stats-item .icon-container,.torq-stats-grid .stats-item .text-container{text-align:center}

@@ -1,0 +1,1 @@
+jQuery((function(t){t(".dtp-alert-dismiss").each((function(){t(this).on("click",(function(){t(this).parents(".torq_alert").fadeOut(400)}))}))}));
